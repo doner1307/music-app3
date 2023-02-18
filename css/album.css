@@ -1,0 +1,9 @@
+.list-group-item:hover {
+  outline: 4px solid #ffdb4d;
+  z-index: 1;
+}
+
+.progress {
+  width: 50%;
+  margin: 0 10px 0 10px;
+}
